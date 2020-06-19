@@ -11,6 +11,9 @@ git clone https://github.com/teamssix/shiro-check-rce.git
 cd shiro-check-rce
 pip3 install -r requirements.txt
 ```
+由于国内GitHub下载较慢，且克隆本程序所有文件共有 52M 大小，因此建议国内用户到码云上进行下载。
+
+本项目码云地址：[https://gitee.com/teamssix/shiro-check-rce](
 
 # 0x02 工具介绍
 
