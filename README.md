@@ -4,16 +4,14 @@
 
 # 0x01 工具安装
 
-本工具需要Python3环境，下载本工具后，安装Python第三方库即可使用。
+本工具需要 Python3 和 Java 环境，下载本工具后，将文件解压，在本项目目录下运行下面的命令，安装Python第三方库即可。
 
 ```
-git clone https://github.com/teamssix/shiro-check-rce.git
-cd shiro-check-rce
 pip3 install -r requirements.txt
 ```
-由于国内GitHub下载较慢，且克隆本程序所有文件共有 52M 大小，因此建议国内用户到码云上进行下载。
+国外下载地址：https://github.com/teamssix/shiro-check-rce/releases/
 
-本项目码云地址：[https://gitee.com/teamssix/shiro-check-rce](https://gitee.com/teamssix/shiro-check-rce)
+国内下载地址：https://gitee.com/teamssix/shiro-check-rce/releases
 
 # 0x02 工具介绍
 
